@@ -1,0 +1,4 @@
+name: sarthak
+age: 21
+marks: 67
+python

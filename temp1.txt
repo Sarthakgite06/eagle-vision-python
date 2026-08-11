@@ -1,0 +1,6 @@
+name: sarthak
+age: 21
+marks: 67
+name: omkar
+ age: 21
+ marks: 70
